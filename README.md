@@ -3,7 +3,7 @@ Small tools that help me in day to day tasks I would like to share.
 
 ## Loyverse Data Export
 
-A single PowerShell script that pulls your **current item inventory** and a trailing window of **receipts** straight from the Loyverse API into a two-sheet Excel workbook. No Google Sheets plugin, no server, no manual exports — just run the script.
+A single PowerShell script that pulls your **current item inventory** and a trailing window of **receipts** straight from the Loyverse API into a two-sheet Excel workbook. 
 
 ### What you get
 
